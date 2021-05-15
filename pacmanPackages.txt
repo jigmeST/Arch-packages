@@ -21,3 +21,14 @@ hunspell
 hunspell-en_US
 zip 
 unzip
+openssh
+htop
+neofetch
+vlc
+neomutt
+youtube-dl
+isync
+ttf-font-awesome
+newsboat
+ffmpeg
+ncurses
